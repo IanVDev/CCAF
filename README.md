@@ -45,6 +45,6 @@ Não exige tracker pesado.
 
 Avance por clareza real, não por pressa.
 
----
+--
 
 > Fontes prioritárias: [docs.anthropic.com](https://docs.anthropic.com) · [anthropic.com/research](https://anthropic.com/research) · Anthropic Academy
